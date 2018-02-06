@@ -2,5 +2,8 @@
   "name": "yarn-repro",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jquery-ujs": "1.2.2"
+  }
 }
