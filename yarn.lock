@@ -8,6 +8,10 @@ jquery-ujs@1.2.2:
   dependencies:
     jquery ">=1.8.0"
 
+jquery@1.12.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-1.12.0.tgz#44653be4e3e4628b106bf2141dfd10fbca6021ef"
+
 jquery@>=1.8.0:
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.3.1.tgz#958ce29e81c9790f31be7792df5d4d95fc57fbca"
